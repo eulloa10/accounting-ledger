@@ -64,4 +64,4 @@ docker-compose exec web python manage.py test
 - pgAdmin for database management
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/eulloa10/accounting-ledger/blob/main/LICENSE) file for details.
