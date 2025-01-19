@@ -1,0 +1,54 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+*.log
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.db
+media/
+staticfiles/
+.env
+*.env
+
+# Virtual Environment
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+acct-ledger-venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js (for React frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build output
+build/
+dist/
+*.tgz
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+**/docker-compose.override.yml
+**/ledger_data/
+*.tar
